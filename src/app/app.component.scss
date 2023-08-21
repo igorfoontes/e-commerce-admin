@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  width: 100%;
+  height: 50px;
+  background-color: darkblue;
+}
+
+.body {
+  width: 100%;
+  background-color: aqua;
+  height: 100vh;
+  float: right;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+
+.menu {
+  height: 100%;
+  width: 250px;
+  background-color: rgb(13, 5, 58);
+  color: white;
+}
+
+li.options {
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.logo {
+  height: 50px;
+}
+
+.login {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  background-color: aqua;
+}
+
+.imageOptions {
+
+}
